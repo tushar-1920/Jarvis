@@ -6,7 +6,7 @@ import musicLibrary
 recognizer = sr.Recognizer()
 engine = pyttsx3.init()
 
-
+ggdfd
 def speak(text):
     engine.say(text)
     engine.runAndWait()
@@ -53,6 +53,7 @@ if __name__ == "__main__":
 
         except Exception as e:
             print(f"Error: {e}")
+
 
 
 
