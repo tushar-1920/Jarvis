@@ -5,7 +5,7 @@
 --- 
 
 ## 🚀 Features
-FF
+F
 - 🎙️ Voice recognition and text-to-speech
 - 🌐 Web search and Wikipedia integration
 - 📧 Send emails via SMTP
