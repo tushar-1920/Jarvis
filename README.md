@@ -4,7 +4,7 @@
 
 --- 
 
-## 🚀 Features ffff
+## 🚀 Features fff
 
 - 🎙️ Voice recognition and text-to-speech
 - 🌐 Web search and Wikipedia integration
