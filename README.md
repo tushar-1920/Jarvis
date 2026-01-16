@@ -16,7 +16,7 @@
 
 ---
 
-## 🧰 Tech Stack b
+## 🧰 Tech Stack 
 
 - **Language:** Python 3.x  
 - **Libraries:**  
