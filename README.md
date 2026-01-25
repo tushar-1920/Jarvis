@@ -2,7 +2,7 @@
 
 **J.A.R.V.I.S. (Just A Rather Very Intelligent System)** is a voice-activated virtual assistant built using Python. Inspired by Iron Man's AI from the Marvel Universe, this assistant can perform a variety of tasks including answering questions, opening apps/websites, sending emails, and more — all through voice commands.
 
---- cc
+--- c
 
 ## 🚀 Features 
 
