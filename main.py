@@ -9,7 +9,7 @@ engine = pyttsx3.init()
 def speak(text):
     engine.say(text)
     engine.runAndWait()
-d
+
 
 def processCommand(c):
     if "open google" in c.lower():
@@ -52,6 +52,7 @@ if __name__ == "__main__":
 
         except Exception as e:
             print(f"Error: {e}")
+
 
 
 
