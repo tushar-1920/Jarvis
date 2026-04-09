@@ -6,7 +6,7 @@
 
 ## 🚀 Features 
 
-- 🎙️ Voice recognition and text-to-speech hhhhhhhhh
+- 🎙️ Voice recognition and text-to-speech hhhhhhhh
 - 🌐 Web search and Wikipedia integration
 - 📧 Send emails via SMTP
 - 🕒 Tell the current time, date, and weather
